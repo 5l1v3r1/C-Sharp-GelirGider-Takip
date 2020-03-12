@@ -1,0 +1,20 @@
+c:\users\_dangerousman\documents\visual studio 2013\Projects\Kayıtlar\Kayıtlar\bin\Debug\Kayıtlar.exe.config
+c:\users\_dangerousman\documents\visual studio 2013\Projects\Kayıtlar\Kayıtlar\bin\Debug\Kayıtlar.exe
+c:\users\_dangerousman\documents\visual studio 2013\Projects\Kayıtlar\Kayıtlar\bin\Debug\Kayıtlar.pdb
+c:\users\_dangerousman\documents\visual studio 2013\Projects\Kayıtlar\Kayıtlar\obj\Debug\Kayıtlar.csprojResolveAssemblyReference.cache
+c:\users\_dangerousman\documents\visual studio 2013\Projects\Kayıtlar\Kayıtlar\obj\Debug\Kayıtlar.Form1.resources
+c:\users\_dangerousman\documents\visual studio 2013\Projects\Kayıtlar\Kayıtlar\obj\Debug\Kayıtlar.Properties.Resources.resources
+c:\users\_dangerousman\documents\visual studio 2013\Projects\Kayıtlar\Kayıtlar\obj\Debug\Kayıtlar.csproj.GenerateResource.Cache
+c:\users\_dangerousman\documents\visual studio 2013\Projects\Kayıtlar\Kayıtlar\obj\Debug\Kayıtlar.exe
+c:\users\_dangerousman\documents\visual studio 2013\Projects\Kayıtlar\Kayıtlar\obj\Debug\Kayıtlar.pdb
+c:\users\_dangerousman\documents\visual studio 2013\Projects\Kayıtlar\Kayıtlar\obj\Debug\Kayıtlar.Form2.resources
+O:\Google omnyvz.sponsor@gmail.com\VB6 - C# Projelerim\Kayıtlar\Kayıtlar\bin\Debug\Kayıtlar.exe.config
+O:\Google omnyvz.sponsor@gmail.com\VB6 - C# Projelerim\Kayıtlar\Kayıtlar\bin\Debug\Kayıtlar.exe
+O:\Google omnyvz.sponsor@gmail.com\VB6 - C# Projelerim\Kayıtlar\Kayıtlar\bin\Debug\Kayıtlar.pdb
+O:\Google omnyvz.sponsor@gmail.com\VB6 - C# Projelerim\Kayıtlar\Kayıtlar\obj\Debug\Kayıtlar.csprojAssemblyReference.cache
+O:\Google omnyvz.sponsor@gmail.com\VB6 - C# Projelerim\Kayıtlar\Kayıtlar\obj\Debug\Kayıtlar.Form1.resources
+O:\Google omnyvz.sponsor@gmail.com\VB6 - C# Projelerim\Kayıtlar\Kayıtlar\obj\Debug\Kayıtlar.Form2.resources
+O:\Google omnyvz.sponsor@gmail.com\VB6 - C# Projelerim\Kayıtlar\Kayıtlar\obj\Debug\Kayıtlar.Properties.Resources.resources
+O:\Google omnyvz.sponsor@gmail.com\VB6 - C# Projelerim\Kayıtlar\Kayıtlar\obj\Debug\Kayıtlar.csproj.GenerateResource.cache
+O:\Google omnyvz.sponsor@gmail.com\VB6 - C# Projelerim\Kayıtlar\Kayıtlar\obj\Debug\Kayıtlar.exe
+O:\Google omnyvz.sponsor@gmail.com\VB6 - C# Projelerim\Kayıtlar\Kayıtlar\obj\Debug\Kayıtlar.pdb
